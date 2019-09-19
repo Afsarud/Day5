@@ -1,0 +1,84 @@
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe.config
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.pdb
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csprojAssemblyReference.cache
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Properties.Resources.resources
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.GenerateResource.cache
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
+D:\afsar\New folder\MyWindowsFormsApp4\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Home.resources
+D:\afsar\Secondday\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe.config
+D:\afsar\Secondday\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe
+D:\afsar\Secondday\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.pdb
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csprojAssemblyReference.cache
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Home.resources
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Properties.Resources.resources
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.GenerateResource.cache
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.DataTypUi.resources
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ConditionUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe.config
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.pdb
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ArrayUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ConditionUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.DataTypUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Home.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
+C:\Users\Web App Develop .Net\Documents\GitHub\Day3\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.TestData.resources
+C:\Users\afsar\Downloads\Day3-master\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe.config
+C:\Users\afsar\Downloads\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
+C:\Users\afsar\Downloads\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe.config
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.pdb
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csprojResolveAssemblyReference.cache
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ArrayUi.resources
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ConditionUi.resources
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.DataTypUi.resources
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Home.resources
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Properties.Resources.resources
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.TestData.resources
+E:\BITM PROJECT INFO\Day3-master\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe.config
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.pdb
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ArrayUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ConditionUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.DataTypUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Home.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.TestData.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
+C:\Users\Web App Develop .Net\Documents\GitHub\day4class\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ListUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ArrayUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ConditionUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.DataTypUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Home.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ListUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.TestData.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.TryCatchUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.StudentInfoUi.resources
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe.config
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.exe
+C:\Users\Web App Develop .Net\Documents\GitHub\Day5\MyWindowsFormsApp4\bin\Debug\MyWindowsFormsApp4.pdb
