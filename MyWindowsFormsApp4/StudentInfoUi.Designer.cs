@@ -47,10 +47,10 @@
             this.idRadioButton = new System.Windows.Forms.RadioButton();
             this.nameRadioButton = new System.Windows.Forms.RadioButton();
             this.mobileRadioButton = new System.Windows.Forms.RadioButton();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.gpaPointresultTextBoxGb = new System.Windows.Forms.GroupBox();
+            this.totalMarksForTextBox = new System.Windows.Forms.TextBox();
+            this.nameForMarksTextBox = new System.Windows.Forms.TextBox();
+            this.nameForMaxmarkTextBox = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
@@ -61,8 +61,9 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.searchButton = new System.Windows.Forms.Button();
+            this.searchTextBoxForSearch = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
-            this.groupBox2.SuspendLayout();
+            this.gpaPointresultTextBoxGb.SuspendLayout();
             this.SuspendLayout();
             // 
             // idTextBox
@@ -192,7 +193,7 @@
             // 
             // addButton
             // 
-            this.addButton.Location = new System.Drawing.Point(431, 27);
+            this.addButton.Location = new System.Drawing.Point(431, 21);
             this.addButton.Name = "addButton";
             this.addButton.Size = new System.Drawing.Size(75, 23);
             this.addButton.TabIndex = 4;
@@ -202,7 +203,7 @@
             // 
             // showAllButton
             // 
-            this.showAllButton.Location = new System.Drawing.Point(431, 56);
+            this.showAllButton.Location = new System.Drawing.Point(431, 50);
             this.showAllButton.Name = "showAllButton";
             this.showAllButton.Size = new System.Drawing.Size(75, 23);
             this.showAllButton.TabIndex = 5;
@@ -243,47 +244,47 @@
             this.mobileRadioButton.Text = "Mobile";
             this.mobileRadioButton.UseVisualStyleBackColor = true;
             // 
-            // groupBox2
+            // gpaPointresultTextBoxGb
             // 
-            this.groupBox2.Controls.Add(this.textBox7);
-            this.groupBox2.Controls.Add(this.textBox8);
-            this.groupBox2.Controls.Add(this.textBox9);
-            this.groupBox2.Controls.Add(this.label10);
-            this.groupBox2.Controls.Add(this.label11);
-            this.groupBox2.Controls.Add(this.label12);
-            this.groupBox2.Controls.Add(this.avgMarksTextBox);
-            this.groupBox2.Controls.Add(this.minMarksTextBox);
-            this.groupBox2.Controls.Add(this.maxMarksTextBox);
-            this.groupBox2.Controls.Add(this.label9);
-            this.groupBox2.Controls.Add(this.label8);
-            this.groupBox2.Controls.Add(this.label7);
-            this.groupBox2.Location = new System.Drawing.Point(44, 404);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(471, 78);
-            this.groupBox2.TabIndex = 9;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "GPA Point";
+            this.gpaPointresultTextBoxGb.Controls.Add(this.totalMarksForTextBox);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.nameForMarksTextBox);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.nameForMaxmarkTextBox);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.label10);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.label11);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.label12);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.avgMarksTextBox);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.minMarksTextBox);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.maxMarksTextBox);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.label9);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.label8);
+            this.gpaPointresultTextBoxGb.Controls.Add(this.label7);
+            this.gpaPointresultTextBoxGb.Location = new System.Drawing.Point(44, 404);
+            this.gpaPointresultTextBoxGb.Name = "gpaPointresultTextBoxGb";
+            this.gpaPointresultTextBoxGb.Size = new System.Drawing.Size(471, 78);
+            this.gpaPointresultTextBoxGb.TabIndex = 9;
+            this.gpaPointresultTextBoxGb.TabStop = false;
+            this.gpaPointresultTextBoxGb.Text = "GPA Point";
             // 
-            // textBox7
+            // totalMarksForTextBox
             // 
-            this.textBox7.Location = new System.Drawing.Point(330, 39);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(70, 20);
-            this.textBox7.TabIndex = 13;
+            this.totalMarksForTextBox.Location = new System.Drawing.Point(330, 39);
+            this.totalMarksForTextBox.Name = "totalMarksForTextBox";
+            this.totalMarksForTextBox.Size = new System.Drawing.Size(70, 20);
+            this.totalMarksForTextBox.TabIndex = 13;
             // 
-            // textBox8
+            // nameForMarksTextBox
             // 
-            this.textBox8.Location = new System.Drawing.Point(171, 39);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(70, 20);
-            this.textBox8.TabIndex = 12;
+            this.nameForMarksTextBox.Location = new System.Drawing.Point(171, 39);
+            this.nameForMarksTextBox.Name = "nameForMarksTextBox";
+            this.nameForMarksTextBox.Size = new System.Drawing.Size(70, 20);
+            this.nameForMarksTextBox.TabIndex = 12;
             // 
-            // textBox9
+            // nameForMaxmarkTextBox
             // 
-            this.textBox9.Location = new System.Drawing.Point(44, 39);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(70, 20);
-            this.textBox9.TabIndex = 11;
+            this.nameForMaxmarkTextBox.Location = new System.Drawing.Point(44, 39);
+            this.nameForMaxmarkTextBox.Name = "nameForMaxmarkTextBox";
+            this.nameForMaxmarkTextBox.Size = new System.Drawing.Size(70, 20);
+            this.nameForMaxmarkTextBox.TabIndex = 11;
             // 
             // label10
             // 
@@ -362,20 +363,28 @@
             // 
             // searchButton
             // 
-            this.searchButton.Location = new System.Drawing.Point(431, 189);
+            this.searchButton.Location = new System.Drawing.Point(419, 244);
             this.searchButton.Name = "searchButton";
-            this.searchButton.Size = new System.Drawing.Size(75, 23);
+            this.searchButton.Size = new System.Drawing.Size(87, 23);
             this.searchButton.TabIndex = 10;
             this.searchButton.Text = "Search";
             this.searchButton.UseVisualStyleBackColor = true;
+            // 
+            // searchTextBoxForSearch
+            // 
+            this.searchTextBoxForSearch.Location = new System.Drawing.Point(419, 196);
+            this.searchTextBoxForSearch.Name = "searchTextBoxForSearch";
+            this.searchTextBoxForSearch.Size = new System.Drawing.Size(87, 20);
+            this.searchTextBoxForSearch.TabIndex = 11;
             // 
             // StudentInfoUi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(557, 500);
+            this.Controls.Add(this.searchTextBoxForSearch);
             this.Controls.Add(this.searchButton);
-            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.gpaPointresultTextBoxGb);
             this.Controls.Add(this.mobileRadioButton);
             this.Controls.Add(this.nameRadioButton);
             this.Controls.Add(this.idRadioButton);
@@ -387,8 +396,8 @@
             this.Text = "StudentInfoUi";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
+            this.gpaPointresultTextBoxGb.ResumeLayout(false);
+            this.gpaPointresultTextBoxGb.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -415,10 +424,10 @@
         private System.Windows.Forms.RadioButton idRadioButton;
         private System.Windows.Forms.RadioButton nameRadioButton;
         private System.Windows.Forms.RadioButton mobileRadioButton;
-        private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.GroupBox gpaPointresultTextBoxGb;
+        private System.Windows.Forms.TextBox totalMarksForTextBox;
+        private System.Windows.Forms.TextBox nameForMarksTextBox;
+        private System.Windows.Forms.TextBox nameForMaxmarkTextBox;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
@@ -429,5 +438,6 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button searchButton;
+        private System.Windows.Forms.TextBox searchTextBoxForSearch;
     }
 }

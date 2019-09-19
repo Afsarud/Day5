@@ -18,7 +18,7 @@ namespace MyWindowsFormsApp4
         List<string> mobiles = new List<string>();
         List<int> ages = new List<int>();
         List<string> addresses = new List<string>();
-        List<int> gpaPoints = new List<int>();
+        List<double> gpaPoints = new List<double>();
 
         public StudentInfoUi()
         {
@@ -82,13 +82,35 @@ namespace MyWindowsFormsApp4
             {
                 resultRichTextBox.Text += "ID: " + ids[i] + ", "+ "Name: " + names[i] +", "+ "Mobile: " +mobiles[i]+", "+" Age: " +ages[i]+", " + "Address: "+addresses[i]+", "+"GPA point: " + gpaPoints[i]+"\n";
             }
-          
+
+           
+
+
+
         }
 
         private void showAllButton_Click(object sender, EventArgs e)
         {
             ResultShowAllInfo(0,ids.Count-1);
 
+            //double gpaPointresult = Convert.ToDouble(gpaPointresultTextBoxGb.Text);
+
+            double gpamax = gpaPoints.Max();
+            int index = gpaPoints.IndexOf(gpamax);
+            string name = names[index];
+            maxMarksTextBox.Text = gpamax.ToString();
+            nameForMaxmarkTextBox.Text = name.ToString();
+
+            double gpamin = gpaPoints.Min();
+            index = gpaPoints.IndexOf(gpamin);
+            name = names[index];
+            minMarksTextBox.Text = gpamin.ToString();
+            nameForMarksTextBox.Text = name.ToString();
+
+            double total = gpaPoints.Sum();
+            double avg = total / gpaPoints.Count();
+            avgMarksTextBox.Text = avg.ToString();
+            totalMarksForTextBox.Text = total.ToString();
         }
     }
 }
