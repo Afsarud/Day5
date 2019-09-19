@@ -111,6 +111,7 @@ namespace MyWindowsFormsApp4
             double avg = total / gpaPoints.Count();
             avgMarksTextBox.Text = avg.ToString();
             totalMarksForTextBox.Text = total.ToString();
+
         }
     }
 }
